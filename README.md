@@ -1,0 +1,2 @@
+# pyTesseract
+python tessaract
